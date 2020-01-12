@@ -1,0 +1,14 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{9344BDBB-3E7F-41FC-A0DD-8665D75EE146}") = "GIT-TEST", "GIT-TEST.mdproj", "{154348E9-89C8-444D-B973-34B1C9C1A32C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Any CPU = Default|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{154348E9-89C8-444D-B973-34B1C9C1A32C}.Default|Any CPU.ActiveCfg = Default|Any CPU
+		{154348E9-89C8-444D-B973-34B1C9C1A32C}.Default|Any CPU.Build.0 = Default|Any CPU
+	EndGlobalSection
+EndGlobal
