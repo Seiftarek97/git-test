@@ -11,5 +11,9 @@
   </PropertyGroup>
   <ItemGroup>
     <None Include="index.html" />
+    <None Include="templates\test.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="templates\" />
   </ItemGroup>
 </Project>
